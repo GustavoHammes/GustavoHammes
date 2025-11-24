@@ -5,7 +5,7 @@
 <div align="center">
   <a href="mailto:daffa1632@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://linkedin.com/in/gustavohammes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://seu-portfolio.com" target="_blank"><img src="https://img.shields.io/badge/-Portfólio-632ED6?style=for-the-badge&logo=react&logoColor=white" target="_blank"></a>
+  <a href="https://portfolio-gustavo-hammes.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-Portfólio-632ED6?style=for-the-badge&logo=react&logoColor=white" target="_blank"></a>
 </div>
 
 <div align="center">
