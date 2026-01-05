@@ -5,7 +5,7 @@
 <div align="center">
   <a href="mailto:daffa1632@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://linkedin.com/in/gustavohammes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://your-portfolio.com" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-632ED6?style=for-the-badge&logo=react&logoColor=white" target="_blank"></a>
+  <a href="https://portfolio-gustavo-hammes.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-632ED6?style=for-the-badge&logo=react&logoColor=white" target="_blank"></a>
 </div>
 
 <div align="center">
@@ -54,23 +54,26 @@ Here are some of the projects I've developed or collaborated on.
     <tr>
       <td width="50%">
         <a href="https://github.com/GustavoHammes/NLW-agents-Rocketseat">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=GustavoHammes&repo=NLW-agents-Rocketseat&title_color=eeeeee&text_color=9B79E6&icon_color=632ed6&border_color=00000000&bg_color=0D1117&hide_border=true" />
+          <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=GustavoHammes&repo=NLW-agents-Rocketseat&title_color=eeeeee&text_color=9B79E6&icon_color=632ed6&border_color=00000000&bg_color=0D1117&hide_border=true" alt="NLW Agents Rocketseat" />
         </a>
       </td>
       <td width="50%">
         <a href="https://github.com/octacodeteam/ABP1">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=octacodeteam&repo=ABP1&title_color=eeeeee&text_color=9B79E6&icon_color=632ed6&border_color=00000000&bg_color=0D1117&hide_border=true" />
+          <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=octacodeteam&repo=ABP1&title_color=eeeeee&text_color=9B79E6&icon_color=632ed6&border_color=00000000&bg_color=0D1117&hide_border=true" alt="ABP1 Project" />
         </a>
       </td>
     </tr>
     <tr>
       <td width="50%">
         <a href="https://github.com/octacodeteam/ABP2">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=octacodeteam&repo=ABP2&title_color=eeeeee&text_color=9B79E6&icon_color=632ed6&border_color=00000000&bg_color=0D1117&hide_border=true" />
+          <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=octacodeteam&repo=ABP2&title_color=eeeeee&text_color=9B79E6&icon_color=632ed6&border_color=00000000&bg_color=0D1117&hide_border=true" alt="ABP2 Project" />
         </a>
       </td>
       <td width="50%">
-        </td>
+        <a href="https://github.com/octacodeteam/ABP3">
+          <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=octacodeteam&repo=ABP3&title_color=eeeeee&text_color=9B79E6&icon_color=632ed6&border_color=00000000&bg_color=0D1117&hide_border=true" alt="ABP3 Project" />
+        </a>
+      </td>
     </tr>
   </table>
 </div>
