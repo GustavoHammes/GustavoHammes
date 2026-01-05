@@ -55,23 +55,26 @@ Aqui estão alguns projetos que desenvolvi ou nos quais colaborei. Você pode ad
     <tr>
       <td width="50%">
         <a href="https://github.com/GustavoHammes/NLW-agents-Rocketseat">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=GustavoHammes&repo=NLW-agents-Rocketseat&title_color=eeeeee&text_color=9B79E6&icon_color=632ed6&border_color=00000000&bg_color=0D1117&locale=pt-br&hide_border=true" />
+          <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=GustavoHammes&repo=NLW-agents-Rocketseat&title_color=eeeeee&text_color=9B79E6&icon_color=632ed6&border_color=00000000&bg_color=0D1117&locale=pt-br&hide_border=true" alt="NLW-agents-Rocketseat" />
         </a>
       </td>
       <td width="50%">
         <a href="https://github.com/octacodeteam/ABP1">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=octacodeteam&repo=ABP1&title_color=eeeeee&text_color=9B79E6&icon_color=632ed6&border_color=00000000&bg_color=0D1117&locale=pt-br&hide_border=true" />
+          <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=octacodeteam&repo=ABP1&title_color=eeeeee&text_color=9B79E6&icon_color=632ed6&border_color=00000000&bg_color=0D1117&locale=pt-br&hide_border=true" alt="ABP1" />
         </a>
       </td>
     </tr>
     <tr>
       <td width="50%">
         <a href="https://github.com/octacodeteam/ABP2">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=octacodeteam&repo=ABP2&title_color=eeeeee&text_color=9B79E6&icon_color=632ed6&border_color=00000000&bg_color=0D1117&locale=pt-br&hide_border=true" />
+          <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=octacodeteam&repo=ABP2&title_color=eeeeee&text_color=9B79E6&icon_color=632ed6&border_color=00000000&bg_color=0D1117&locale=pt-br&hide_border=true" alt="ABP2" />
         </a>
       </td>
       <td width="50%">
-        </td>
+        <a href="https://github.com/octacodeteam/ABP3">
+          <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=octacodeteam&repo=ABP3&title_color=eeeeee&text_color=9B79E6&icon_color=632ed6&border_color=00000000&bg_color=0D1117&locale=pt-br&hide_border=true" alt="ABP3" />
+        </a>
+      </td>
     </tr>
   </table>
 </div>
