@@ -1,11 +1,11 @@
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=7637FF&background=7637FF00&center=true&vCenter=true&width=750&lines=Hi+there!+I'm+Gustavo+Hammes;Welcome+to+my+Github+profile!" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&pause=1000&color=7637FF&background=7637FF00&center=true&vCenter=true&width=750&lines=Ol%C3%A1!+Eu+sou+Gustavo+Hammes;Seja+bem+vindo+ao+meu+perfil+do+Github!" alt="Typing SVG" /></a>
 </div>
 
 <div align="center">
-  <a href="mailto:daffa1632@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://linkedin.com/in/gustavohammes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://portfolio-gustavo-hammes.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-Portfólio-632ED6?style=for-the-badge&logo=react&logoColor=white" target="_blank"></a>
+  <a href="mailto:daffa1632@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"></a>
+  <a href="https://linkedin.com/in/gustavohammes" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" target="_blank"></a>
+  <a href="https://portfolio-gustavo-hammes.vercel.app/" target="_blank"><img src="https://skillicons.dev/icons?i=react" target="_blank"></a>
 </div>
 
 <div align="center">
@@ -25,12 +25,16 @@
 
 ---
 
-### 🛠️ Habilidades e Tecnologias
+### 🛠️ Tecnologias e Ferramentas
 
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,python,postgres,mysql,figma,vscode,git,github&perline=6" />
-  </a>
+**Linguagens & Frameworks**
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,cpp,java,linux,lua,python,html,css,tailwind" />
+</div>
+
+**Banco de Dados & Ferramentas**
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,figma,vscode,git,docker,github,vercel,postman" />
 </div>
 
 ---
