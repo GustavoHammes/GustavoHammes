@@ -3,9 +3,9 @@
 </div>
 
 <div align="center">
-  <a href="mailto:daffa1632@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://linkedin.com/in/gustavohammes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://portfolio-gustavo-hammes.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-632ED6?style=for-the-badge&logo=react&logoColor=white" target="_blank"></a>
+  <a href="mailto:daffa1632@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"></a>
+  <a href="https://linkedin.com/in/gustavohammes" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" target="_blank"></a>
+  <a href="https://portfolio-gustavo-hammes.vercel.app/" target="_blank"><img src="https://skillicons.dev/icons?i=react" target="_blank"></a>
 </div>
 
 <div align="center">
@@ -18,18 +18,22 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 Currently studying **Software Development for Multiplatform Applications (DSM)** at Fatec Profº Francisco de Moura Jacareí - SP, Brazil.
-- 🚀 Seeking opportunities to apply my development skills and learn new technologies.
-- 🌱 Interested in web development, mobile solutions, and creative software engineering.
+* 🎓 Currently studying **Software Development for Multiplatform Applications (DSM)** at Fatec Profº Francisco de Moura Jacareí - SP, Brazil.
+* 🚀 Seeking opportunities to apply my development skills and learn new technologies.
+* 🌱 Interested in web development, mobile solutions, and creative software engineering.
 
 ---
 
 ### 🛠️ Skills & Technologies
 
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,python,postgres,mysql,figma,vscode,git,github&perline=6" />
-  </a>
+**Languages & Frameworks**
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,cpp,java,linux,lua,python,html,css,tailwind" />
+</div>
+
+**Database & tools**
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,figma,vscode,git,docker,github,vercel,postman" />
 </div>
 
 ---
